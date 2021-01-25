@@ -1,5 +1,5 @@
 const weatherApi = {
-    key: config.SECRET_API_KEY,
+    key: PUT_YOUR_API_KEY,
     baseUrl: "https://api.openweathermap.org/data/2.5/weather"
 }
 
